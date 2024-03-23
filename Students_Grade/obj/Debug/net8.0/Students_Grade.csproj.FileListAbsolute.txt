@@ -1,0 +1,14 @@
+C:\Users\hp\C#projects\Students_Grade\bin\Debug\net8.0\Students_Grade.exe
+C:\Users\hp\C#projects\Students_Grade\bin\Debug\net8.0\Students_Grade.deps.json
+C:\Users\hp\C#projects\Students_Grade\bin\Debug\net8.0\Students_Grade.runtimeconfig.json
+C:\Users\hp\C#projects\Students_Grade\bin\Debug\net8.0\Students_Grade.dll
+C:\Users\hp\C#projects\Students_Grade\bin\Debug\net8.0\Students_Grade.pdb
+C:\Users\hp\C#projects\Students_Grade\obj\Debug\net8.0\Students_Grade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\C#projects\Students_Grade\obj\Debug\net8.0\Students_Grade.AssemblyInfoInputs.cache
+C:\Users\hp\C#projects\Students_Grade\obj\Debug\net8.0\Students_Grade.AssemblyInfo.cs
+C:\Users\hp\C#projects\Students_Grade\obj\Debug\net8.0\Students_Grade.csproj.CoreCompileInputs.cache
+C:\Users\hp\C#projects\Students_Grade\obj\Debug\net8.0\Students_Grade.dll
+C:\Users\hp\C#projects\Students_Grade\obj\Debug\net8.0\refint\Students_Grade.dll
+C:\Users\hp\C#projects\Students_Grade\obj\Debug\net8.0\Students_Grade.pdb
+C:\Users\hp\C#projects\Students_Grade\obj\Debug\net8.0\Students_Grade.genruntimeconfig.cache
+C:\Users\hp\C#projects\Students_Grade\obj\Debug\net8.0\ref\Students_Grade.dll
